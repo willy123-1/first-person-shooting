@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Target
+  - reloadingDisplay
+  - ammunitionDisplay
+  - TextMeshProUGUI
   layers:
   - Default
   - TransparentFX
